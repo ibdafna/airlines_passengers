@@ -1,6 +1,6 @@
 name: airline_passengers
 channels:
-  - https://conda.anaconda.org
+  - conda-forge
 dependencies:
   - bqplot=0.12.33
   - jupyterlab=3.4.4
@@ -9,7 +9,6 @@ dependencies:
   - ipywidgets=7.7.1
   - pandas=1.4.3
   - python=3.10.5
-  - plotly=5.9.0d1ab_0
   - numpy=1.23.1
   - matplotlib
   - scikit-learn
